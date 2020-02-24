@@ -1,4 +1,4 @@
-module figo/template-builder
+module github.com/figo/template-builder
 
 go 1.12
 

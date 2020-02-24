@@ -1,7 +1,7 @@
 package main
 
 import (
-	"figo/template-builder/cmd"
+	"github.com/figo/template-builder/cmd"
 )
 
 func main() {
